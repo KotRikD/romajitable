@@ -1,6 +1,6 @@
 # RomajiTable
 
-> RomajiTable - This is a util to convert english or maybe translited word to kata (Hiragana, Katakana)
+> RomajiTable - This is a util to convert english or maybe translited word to kana (Hiragana, Katakana)
 > Lib for Python 3+
 
 ## Installing
